@@ -1,11 +1,11 @@
-# 🪄 Invisible Cloak Web App
+# 🪄 Invisible Clock Web App
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
-A real-time web application that recreates the famous "Invisibility Cloak" effect using Computer Vision. This project detects a specific color in a live webcam stream and dynamically replaces it with a static background image, making objects of that color appear completely invisible.
+A real-time web application that recreates the famous "Invisibility Clock" effect using Computer Vision. This project detects a specific color in a live webcam stream and dynamically replaces it with a static background image, making objects of that color appear completely invisible.
 
 > **💡 Note:** *[Add a GIF or screenshot of the app working here!]*
 
